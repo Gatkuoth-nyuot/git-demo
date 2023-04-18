@@ -1,10 +1,8 @@
 #include "main.h"
-
 /**
- * updates
  * main - check the code
  *
- * Return: Always 0.
+ * Return: Always 0. if succed
  */
 int main()
 {
