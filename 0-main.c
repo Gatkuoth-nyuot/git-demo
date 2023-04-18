@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * main - check the code
+ *upating code
+ *  main - check the code
  * Return: Always 0 (if succeded).
  */
 int main(void)
